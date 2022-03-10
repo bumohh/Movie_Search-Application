@@ -74,7 +74,7 @@
 				156D6CC427D8F26C00C9DD4B /* SearchMovieApp.swift */,
 				156D6CC827D8F26D00C9DD4B /* Assets.xcassets */,
 				156D6CE527D91A2800C9DD4B /* View */,
-				156D6CDB27D90B5B00C9DD4B /* VIewModel */,
+				156D6CDB27D90B5B00C9DD4B /* ViewModel */,
 				156D6CDE27D90CF300C9DD4B /* APIHandler */,
 				156D6CDA27D908A800C9DD4B /* Model */,
 				156D6CCA27D8F26D00C9DD4B /* Preview Content */,
@@ -98,7 +98,7 @@
 			name = Model;
 			sourceTree = "<group>";
 		};
-		156D6CDB27D90B5B00C9DD4B /* VIewModel */ = {
+		156D6CDB27D90B5B00C9DD4B /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 				156D6CDC27D90C8100C9DD4B /* Movies.swift */,
@@ -106,7 +106,7 @@
 				156D6CD627D9008500C9DD4B /* Constants.swift */,
 				156D6CE327D915AC00C9DD4B /* MovieError.swift */,
 			);
-			path = VIewModel;
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		156D6CDE27D90CF300C9DD4B /* APIHandler */ = {
